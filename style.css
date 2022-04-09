@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+}
+.buttons {
+    background-color: grey;
+    border: none;
+    font-size: 25px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.button-area {
+    display: flex;
+    justify-content: center;
+}
+.buttons:hover {
+    font-size: 40px;
+}
+.result {
+    text-align: center;
+    padding-top: 10%;
+}
+.score {
+    padding-top: 10%;
+}
