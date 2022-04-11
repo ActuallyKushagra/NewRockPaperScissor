@@ -1,5 +1,6 @@
 body {
     background-color: grey;
+    font-size: 2rem;
 }
 .buttons {
     background-color: grey;
@@ -8,6 +9,7 @@ body {
     padding-right: 50px;
     padding-top: 50px;
     padding-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
 }
 .button-area {
     display: flex;
@@ -20,6 +22,12 @@ body {
     text-align: center;
     padding-top: 10%;
 }
-.score {
-    padding-top: 10%;
+.choice {
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 5rem;
+}
+.rstbtn {
+    background-color: grey;
+    border: none;
+    font-size: 25px;
 }
